@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Viticulture1</string>
+    <string name="msg">Voir les messages en console LogCat</string>
+</resources>
